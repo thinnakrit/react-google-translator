@@ -1,10 +1,10 @@
 {
   "name": "react-google-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google translate for React",
   "main": "src/index.js",
   "module": "src/index.js",
-  "devDependencies": {
+  "peerDependencies": {
     "axios": "^0.27.2",
     "query-string": "^7.1.1",
     "react": "^18.2.0"
