@@ -1,0 +1,31 @@
+{
+  "name": "react-google-translate",
+  "version": "1.0.0",
+  "description": "Google translate for React",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "query-string": "^7.1.1",
+    "react": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinnakrit/react-google-translate.git"
+  },
+  "files": [
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "Google",
+    "Translate",
+    "React"
+  ],
+  "author": "Thinnakrit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinnakrit/react-google-translate/issues"
+  },
+  "homepage": "https://github.com/thinnakrit/react-google-translate#readme"
+}
