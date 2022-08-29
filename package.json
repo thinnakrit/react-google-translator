@@ -13,10 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/thinnakrit/react-google-translator.git"
   },
-  "files": [
-    "package.json",
-    "README.md"
-  ],
   "keywords": [
     "Google",
     "Translate",
@@ -26,6 +22,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thinnakrit/react-google-translator/issues"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/thinnakrit/react-google-translator#readme"
 }
