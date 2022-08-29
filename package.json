@@ -24,7 +24,7 @@
     "url": "https://github.com/thinnakrit/react-google-translator/issues"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "@thinnakrit:registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/thinnakrit/react-google-translator#readme"
 }
